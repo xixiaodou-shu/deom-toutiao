@@ -1,4 +1,4 @@
-# demo-toutiao
+# demo-toutiao 头条vue2 vue-cli vue-router vuex vant(element-ui) 0826
 
 ## Project setup
 ```
